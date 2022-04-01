@@ -1,4 +1,4 @@
-# macOS 12.2.1 on LG Gram z975 series
+# macOS 12.2.1 on LG Gram z975 opencore EFI配置
 
 ## 电脑配置
 | 规格     |      详细信息                              |
@@ -16,7 +16,7 @@
   - 显卡正常，内屏显示正常，亮度调节正常；
   - CPU调频、电源管理正常，查看频率需要安装intel power gadget；
   - 外接HDMI正常，可以同时使用内屏；
-  - 外界type-C转dp正常，可以4k 60Hz
+  - 外接type-C转dp正常，可以4k 60Hz
   - 声卡MIC正常，
   - 休眠睡眠唤醒正常
   - Siri、iCloud、iMessage使用正常；
