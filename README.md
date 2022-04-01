@@ -27,6 +27,7 @@
 ## 未解决问题
 - 笔记本键盘上小键盘区不正常，目前不想去弄
 - 电池总是充电到100%，不能设置为80%停止。
+- 双启动。我是通过U盘Clover启动一次Windows，这样启动选项里面就有Windows了。每次启动时按F10，手动选择启动到windows。
 
 
 # macOS 12.2.1 on LG Gram z975 opencore EFI configuration
@@ -58,5 +59,5 @@
 ## Not solved
 - Laptop keyboard on the small keyboard area is not normal, currently do not want to get
 - Battery always charges to 100%, can't set it to stop at 80%.
-
+- Dual boot. Boot Windows once via USB Clover, "boot from Windows" will be inside the boot options. Press F10 each time you boot and manually select booting to windows.
 
